@@ -2,3 +2,4 @@ clear
 rebase_2
 master_2
 rebase_3
+master_4
