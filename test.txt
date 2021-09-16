@@ -1,4 +1,1 @@
 clear
-master_after_clear
-example_2
-master_3
