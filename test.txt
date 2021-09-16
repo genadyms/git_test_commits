@@ -1,1 +1,2 @@
 clear
+merge_commit_1
