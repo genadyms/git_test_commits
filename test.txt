@@ -1,3 +1,5 @@
 master_first_start
 
 after_example_commit
+
+master_final_commit
