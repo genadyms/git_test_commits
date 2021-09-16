@@ -1,2 +1,3 @@
 clear
 merge_commit_1
+merge_commit_3
