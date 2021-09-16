@@ -2,4 +2,6 @@ main_commit_1
 
 rebase_commit_1
 
+rebase_commit_2
+
 master_commit_2
