@@ -1,3 +1,5 @@
 master_first_start
 
 example_after_first_start
+
+example_after_master_2
