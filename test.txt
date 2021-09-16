@@ -1,4 +1,1 @@
 clear
-merge_commit_1
-master_commit_2
-merge_commit_3
