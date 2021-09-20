@@ -1,5 +1,0 @@
-clear
-<<<<<<< HEAD
-master_2
-master_4
-master_2
