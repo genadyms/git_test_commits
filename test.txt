@@ -1,10 +1,1 @@
 clear
-master_1
-master_2
-
-reba-1
-reba-2
-reba-3
-
-master-3
-master-4
