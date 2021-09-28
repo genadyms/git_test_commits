@@ -1,4 +1,5 @@
 clear
 feature
+feature 2
 
 feature_rb_1
