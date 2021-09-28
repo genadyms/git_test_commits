@@ -3,3 +3,4 @@ feature
 feature 2
 
 feature_rb_1
+feature_merge_1
