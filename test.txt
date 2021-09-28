@@ -1,5 +1,3 @@
 clear
 commit1
 commit2
-mearge-1
-mearge-2
