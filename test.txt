@@ -10,3 +10,5 @@ feature_1
 feature_after_merge_1
 
 test_merge_1
+test_merge_2
+
