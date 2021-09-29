@@ -1,3 +1,4 @@
 clear
 fault_1
 fault_2
+fault_3
