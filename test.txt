@@ -1,3 +1,4 @@
 clear
 good-1
 good-2
+fault_1
